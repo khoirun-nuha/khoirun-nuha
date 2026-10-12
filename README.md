@@ -60,4 +60,4 @@
 </div>
 
 note:
-saya suka menjadikan merek hp saya untuk password, mungkin menu write up bisa membantu kalian untuk menemukan merek hp saya
+saya suka menjadikan merek hp saya untuk password, mungkin dengan membaca write up bisa membantu kalian untuk menemukan merek hp saya
