@@ -54,10 +54,8 @@
   <a href="https://tiktok.com/@khoirun-nuha" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="mailto:email-kamu@example.com">
+  <a href="mailto:nuhaskuk123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-note:
-saya suka menjadikan merek hp saya untuk password, mungkin dengan membaca write up bisa membantu kalian untuk menemukan merek hp saya
