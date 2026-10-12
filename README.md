@@ -24,8 +24,9 @@
 ---
 
 ### 🎮 Contribution Game (Pacman Animation)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khoirun-nuha/khoirun-nuha/output/dist/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/khoirun-nuha/khoirun-nuha/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Animation" width="100%" />
 </div>
 
 ---
