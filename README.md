@@ -58,3 +58,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+note:
+saya suka menjadikan merek hp saya untuk password, mungkin menu write up bisa membantu kalian untuk menemukan merek hp saya
