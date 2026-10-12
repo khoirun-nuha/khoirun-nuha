@@ -23,33 +23,34 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 🎮 Contribution Game (Pacman Animation)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/khoirun-nuha/khoirun-nuha/output/dist/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
 </div>
 
 ---
 
-### 🎮 Contribution Game (Snake Animation)
+### 📊 GitHub Stats & Metrics
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khoirun-nuha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoirun-nuha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoirun-nuha&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
 ### 🌐 Connect with Me
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/khoirun-nuha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/khoirun-nuha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@YOUR_TIKTOK" target="_blank">
+  <a href="https://tiktok.com/@khoirun-nuha" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="mailto:email-kamu@example.com">
