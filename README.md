@@ -45,6 +45,9 @@
 
 ### 🌐 Connect with Me
 <div align="center">
+  <a href="https://nuhashi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-38bdf8?style=for-the-badge&logo=substack&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/khoirun-nuha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -58,5 +61,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-note: Token = password = merek hpku
