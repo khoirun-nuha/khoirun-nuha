@@ -23,10 +23,16 @@
 
 ---
 
-### 🎮 Contribution Game (Pacman Animation)
+### 🎮 Contribution Games
 
+#### 🟡 Pac-Man Animation
 <div align="center">
   <img src="https://raw.githubusercontent.com/khoirun-nuha/khoirun-nuha/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Animation" width="100%" />
+</div>
+
+#### 🐍 Snake Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khoirun-nuha/khoirun-nuha/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
 </div>
 
 ---
